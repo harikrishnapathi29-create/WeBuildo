@@ -3,7 +3,7 @@ import Features from './components/Features';
 import Services from './components/Services';
 import Comparison from './components/Comparison';
 import HowItWorks from './components/HowItWorks';
-import ProjectShowcase from './components/ProjectShowcase';
+import ProjectShowCase from './components/ProjectShowCase';
 import Testimonials from './components/Testimonials';
 import CostEstimator from './components/CostEstimator';
 import Footer from './components/Footer';
@@ -17,7 +17,7 @@ function App() {
       <Services />
       <Comparison />
       <HowItWorks />
-      <ProjectShowcase />
+      <ProjectShowCase />
       <Testimonials />
       <CostEstimator />
       <Footer />
