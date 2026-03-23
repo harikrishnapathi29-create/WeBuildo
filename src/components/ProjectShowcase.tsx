@@ -28,7 +28,7 @@ const projects = [
   }
 ];
 
-export default function ProjectShowCase() {
+export default function ProjectShowcase() {
   const [currentProject, setCurrentProject] = useState(0);
   const [sliderPosition, setSliderPosition] = useState(50);
   const [isDragging, setIsDragging] = useState(false);

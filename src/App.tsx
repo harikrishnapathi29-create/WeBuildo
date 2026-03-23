@@ -1,9 +1,10 @@
 import Hero from './components/Hero';
 import Features from './components/Features';
 import Services from './components/Services';
-import Comparison from './components/Comparison';
+// import Comparison from './components/Comparison';
+import Comparison from './components/comparison';
 import HowItWorks from './components/HowItWorks';
-import ProjectShowCase from './components/ProjectShowCase';
+import ProjectShowcase from './components/ProjectShowCase';
 import Testimonials from './components/Testimonials';
 import CostEstimator from './components/CostEstimator';
 import Footer from './components/Footer';
@@ -17,7 +18,7 @@ function App() {
       <Services />
       <Comparison />
       <HowItWorks />
-      <ProjectShowCase />
+      <ProjectShowcase />
       <Testimonials />
       <CostEstimator />
       <Footer />
